@@ -1,0 +1,21 @@
+:root {
+  font-family: "Poppins", "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont,
+    "Helvetica Neue", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  background-color: #f6f7fb;
+  color: #1d1c1c;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #f6f7fb;
+}
+
+#root {
+  min-height: 100vh;
+}
